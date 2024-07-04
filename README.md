@@ -14,7 +14,7 @@ The SOAR Automation Lab project aimed to create a comprehensive environment for 
 - Wazuh: Simulation environment for SOC activities.
 - The Hive: Case management system for incident handling.
 - Shuffle: SOAR platform for automation and orchestration.
-- Cloud infrastructure for scalable deployment.
+- DigitalOcean: Cloud infrastructure for scalable deployment.
 
 ## Steps
 
@@ -39,7 +39,7 @@ Generating telemetry data to mimic real attack scenarios, configuring alerts wit
 Integration of Wasa alerts with The Hive for incident management, automating response actions using Shuffle.
 
 ### Some Screenshots!
-
+https://imgur.com/dAbA4Mr
 
 ## Conclusion
 The SOAR Automation Lab project provided valuable hands-on experience in cyber security operations, from initial setup to advanced automation and incident response. It equipped me with practical skills in managing security incidents within a simulated SOC environment. A very eye opening experience that I thoroughly enjoyed doing!
