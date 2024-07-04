@@ -39,8 +39,44 @@ Generating telemetry data to mimic real attack scenarios, configuring alerts wit
 Integration of Wasa alerts with The Hive for incident management, automating response actions using Shuffle.
 
 ### Some Screenshots!
-https://imgur.com/dAbA4Mr
-
+Wazuh and thehive servers on DigitalOcean:
+<br/>
+<br/>
+![Capture3](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/120b9da3-e236-47b6-831f-fe980939ef98)
+<br/>
+<br/>
+![Capture6](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/5002c53f-cd69-4d9b-967f-ffc29c2100ee)
+<br/>
+<br/>
+Wazuh dashoboard with Mimikatz detected:
+<br/>
+<br/>
+![Capture](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/ea5ec037-ae85-4e25-bfa2-0cfcd8b3e1d7)
+<br/>
+<br/>
+Mimikatz initialization:
+<br/>
+<br/>
+![Capture4](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/b76dc834-a713-424d-8e2c-20d1ef9c0cd9)
+<br/>
+<br/>
+TheHive dashboard:
+<br/>
+<br/>
+![Capture2](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/fea01c66-7fab-46d2-a6b4-8aa80facdd60)
+<br/>
+<br/>
+Shuffle Board with automation to send an email to analyst to block mimikatz usage:
+<br/>
+<br/>
+![Capture5](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/d52c1a67-2d61-4755-b9aa-ded5f531baf6)
+<br/>
+<br/>
+Email sent to analyst!:
+<br/>
+<br/>
+![Capture7](https://github.com/rileysikes03/SOAR-automation-lab/assets/155769373/8f458d1b-05c1-4bcd-bf9c-5ae3fde0dabb)
+<br/>
 ## Conclusion
 The SOAR Automation Lab project provided valuable hands-on experience in cyber security operations, from initial setup to advanced automation and incident response. It equipped me with practical skills in managing security incidents within a simulated SOC environment. A very eye opening experience that I thoroughly enjoyed doing!
 
